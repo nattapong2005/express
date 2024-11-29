@@ -1,5 +1,5 @@
 exports.get = (req,res) => {
-    res.send('GET PRODUCTS');
+    res.send('Get Product JA');
 }
 
 exports.getById = (req,res) => {
@@ -7,5 +7,5 @@ exports.getById = (req,res) => {
 }
 
 exports.create = (req,res) => {
-    res.send("Create a product");
+    res.send("Create a product JA");
 }
